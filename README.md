@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @OnlyITY
 - 👀 I’m interested in reading, playing video games, playing piano, and sleeping
-- 🌱 I’m currently learning Advanced Python Programming.
-- 💞️ I’m looking to collaborate on group prijects maybe?
-- 📫 How to reach me ityip@my.waketech.edu
+- 🌱 I’m currently learning Data Science.
+- 💞️ I’m looking to collaborate on group projects maybe?
+- 📫 How to reach me iyip@charlotte.edu
 
 <!---
 OnlyITY/OnlyITY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
